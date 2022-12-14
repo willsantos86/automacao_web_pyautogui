@@ -17,4 +17,4 @@ pyautogui.press('enter')
 # Colar senha e usuário
 pyautogui.typewrite(senha)
 # Mover e clicar em enviar
-pyautogui.click(2691,740, duration=2)
+pyautogui.click(2452,729, duration=2)
